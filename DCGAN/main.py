@@ -10,7 +10,7 @@ import torch.backends.cudnn as cudnn
 import torch.optim as optim
 import torch.utils.data
 import torchvision.datasets as dset 
-import torch vision.transforms as transforms
+import torchvision.transforms as transforms
 import torchvision.utils as vutils
 import numpy as np 
 import matplotlib.pyplot as plt 
